@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q949pzAkphk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\230910\\Downloads\\FullStackLabTemplate-20261019T031310Z-1-001\\FSWD-Template\\FullStackLabTemplate\\UserInterface\\UserInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\230910\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
+    "C:\\Users\\230910\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
